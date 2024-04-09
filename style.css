@@ -30,7 +30,7 @@ body {
 .logo {
     display: flex;
     justify-content: center;
-    margin-top: 110px;
+    margin-top: 120px;
 }
 
 .logo img {
@@ -96,7 +96,7 @@ body {
 
 @media (max-width: 1200px) {
     .logo {
-        margin-top: 90px;
+        margin-top: 95px;
     }
         .logo img {
             width: 155px;
@@ -118,7 +118,7 @@ body {
 
 @media (max-width: 1000px) {
     .logo {
-        margin-top: 70px;
+        margin-top: 75px;
     }
     .logo img {
         width: 145px;
@@ -162,7 +162,7 @@ body {
 
 @media (max-width: 530px) {
     .logo {
-        margin-top: 70px;
+        margin-top: 45px;
     }
     .logo img {
         width: 125px;
